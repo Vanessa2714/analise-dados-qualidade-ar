@@ -2,9 +2,9 @@
 
 ## Sobre o projeto
 
-Este projeto tem como objetivo realizar uma análise temporal dos dados de monitoramento da qualidade do ar na Região Metropolitana do Rio de Janeiro, utilizando informações disponibilizadas pelo Instituto Estadual do Ambiente (INEA).
+Este projeto tem como objetivo realizar uma análise temporal dos dados de monitoramento da qualidade do ar na Região Metropolitana do Rio de Janeiro referentes ao período de 2020 a 2025, utilizando informações disponibilizadas pelo Instituto Estadual do Ambiente (INEA).
 
-A pesquisa busca investigar o comportamento temporal das concentrações de poluentes atmosféricos, avaliar a disponibilidade dos dados das estações de monitoramento e identificar episódios de ultrapassagem dos padrões de qualidade do ar com base na Resolução CONAMA 18/2024.
+A pesquisa busca investigar o comportamento temporal das concentrações de poluentes atmosféricos, avaliar a disponibilidade dos dados das estações de monitoramento e identificar episódios de ultrapassagem dos padrões de qualidade do ar com base na Resolução CONAMA 506/2024.
 
 ## Objetivos
 
